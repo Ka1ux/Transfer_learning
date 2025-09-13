@@ -105,6 +105,14 @@ print(f"Acurácia no conjunto de validação: {accuracy * 100:.2f}%")
 - Possibilidade de *fine-tuning* descongelando algumas camadas do Xception
 
 ---
+## 📚 O que Aprendi
+
+- **Manipulação de Imagens**: abrir, converter, redimensionar, e salvar imagens em diferentes formatos  
+- **Automação de Processos**: criar scripts que processam múltiplos arquivos automaticamente  
+- **Organização de Código em Python**: separar funcionalidades em módulos, boa estrutura de diretórios  
+- **Documentação**: escrever README claro para explicar instalação, uso e propósitos do projeto  
+
+---
 
 ## 📜 Licença
 Este projeto é de uso livre para estudo e pesquisa.  
